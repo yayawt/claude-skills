@@ -54,9 +54,6 @@ claude-skills/
 └── README.md        # This file
 ```
 
-## Contributing
-
-This is a personal repo — no PR process required. Just add a new `.md` file to `commands/` following the format below, then run `install.sh` to link it.
 
 ### Skill File Format
 
